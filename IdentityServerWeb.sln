@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerWeb", "IdentityServerWeb\IdentityServerWeb.csproj", "{7460B442-1A23-48FB-9B62-65B699B07FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerClient", "IdentityServerClient\IdentityServerClient.csproj", "{86C60472-D030-4E91-B8E3-1E4EA7BE138F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7460B442-1A23-48FB-9B62-65B699B07FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7460B442-1A23-48FB-9B62-65B699B07FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7460B442-1A23-48FB-9B62-65B699B07FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7460B442-1A23-48FB-9B62-65B699B07FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C60472-D030-4E91-B8E3-1E4EA7BE138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C60472-D030-4E91-B8E3-1E4EA7BE138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C60472-D030-4E91-B8E3-1E4EA7BE138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C60472-D030-4E91-B8E3-1E4EA7BE138F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D75519-BED1-4962-ADE3-B5DCA120D9A7}
+	EndGlobalSection
+EndGlobal
